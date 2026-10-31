@@ -2,6 +2,8 @@
 
 Read the chapter: [Chapter-02-Setting-Up-CSharp.pdf](Chapter-02-Setting-Up-CSharp.pdf)
 
+Trainer deck: [Chapter-02-Trainer-Deck.pptx](Chapter-02-Trainer-Deck.pptx) (30 slides, PowerPoint). Talking points and the answers to every quiz, MCQ and practice slide are in the speaker notes.
+
 Installing Visual Studio and the .NET SDK, creating and running a console project, the `dotnet` commands, the project file and comments.
 
 ## Examples

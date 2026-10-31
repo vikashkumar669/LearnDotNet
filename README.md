@@ -2,7 +2,7 @@
 
 Practice C# programs for the book **C# Programming for Indian Students** by Vikash Kumar, written for BCA and B.Tech students.
 
-Each chapter has its own folder with the chapter PDF, every program from the chapter as a ready-to-run project, the mini project, and the solutions to the practice questions.
+Each chapter has its own folder with the chapter PDF, a trainer deck for teaching it, every program from the chapter as a ready-to-run project, the mini project, and the solutions to the practice questions.
 
 ## Chapters
 
@@ -18,6 +18,7 @@ Each chapter has its own folder with the chapter PDF, every program from the cha
 ```text
 Chapter-NN-Title/
   Chapter-NN-Title.pdf   <- the chapter to read
+  Chapter-NN-Trainer-Deck.pptx <- slides for the trainer (answers in speaker notes)
   README.md              <- list of programs in this chapter
   Examples/              <- programs explained inside the chapter
   MiniProject/           <- the chapter's mini project
@@ -29,7 +30,7 @@ Every program sits in its own small console project (one folder, one `.csproj`, 
 ## What you need
 
 - The **.NET 10 SDK** (Long Term Support). Check it with `dotnet --version`.
-- **Visual Studio 2026** with the *.NET desktop development* workload, or Visual Studio Code with the C# Dev Kit.
+- **Visual Studio 2026** with the *.NET desktop development* workload, or Visual Studio Code with the C# Dev Kit. Visual Studio 2022 cannot build .NET 10 projects.
 
 Chapter 2 of the book shows how to install both, step by step.
 
