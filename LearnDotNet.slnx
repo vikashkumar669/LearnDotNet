@@ -1,0 +1,49 @@
+<Solution>
+  <Folder Name="/Chapter-01-Welcome-to-CSharp/" />
+  <Folder Name="/Chapter-01-Welcome-to-CSharp/Examples/">
+    <Project Path="Chapter-01-Welcome-to-CSharp/Examples/Demo1A_RuntimeInfo/Demo1A_RuntimeInfo.csproj" />
+    <Project Path="Chapter-01-Welcome-to-CSharp/Examples/Program1_1_HelloIndia/Program1_1_HelloIndia.csproj" />
+    <Project Path="Chapter-01-Welcome-to-CSharp/Examples/Program1_2_HelloIndiaModern/Program1_2_HelloIndiaModern.csproj" />
+    <Project Path="Chapter-01-Welcome-to-CSharp/Examples/Program1_3_WriteAndEscapes/Program1_3_WriteAndEscapes.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-01-Welcome-to-CSharp/MiniProject/">
+    <Project Path="Chapter-01-Welcome-to-CSharp/MiniProject/Program1_4_StudentWelcomeCard/Program1_4_StudentWelcomeCard.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-01-Welcome-to-CSharp/Solutions/">
+    <Project Path="Chapter-01-Welcome-to-CSharp/Solutions/Q06_PredictOutput/Q06_PredictOutput.csproj" />
+    <Project Path="Chapter-01-Welcome-to-CSharp/Solutions/Q07_PredictOutput/Q07_PredictOutput.csproj" />
+    <Project Path="Chapter-01-Welcome-to-CSharp/Solutions/Q10_StarTriangle/Q10_StarTriangle.csproj" />
+    <Project Path="Chapter-01-Welcome-to-CSharp/Solutions/Q11_StudentCard/Q11_StudentCard.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-02-Setting-Up-CSharp/" />
+  <Folder Name="/Chapter-02-Setting-Up-CSharp/Examples/">
+    <Project Path="Chapter-02-Setting-Up-CSharp/Examples/Example2_Comments/Example2_Comments.csproj" />
+    <Project Path="Chapter-02-Setting-Up-CSharp/Examples/Program2_1_TemplateHelloWorld/Program2_1_TemplateHelloWorld.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-02-Setting-Up-CSharp/MiniProject/">
+    <Project Path="Chapter-02-Setting-Up-CSharp/MiniProject/Program2_2_MyIntroduction/Program2_2_MyIntroduction.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-02-Setting-Up-CSharp/Solutions/">
+    <Project Path="Chapter-02-Setting-Up-CSharp/Solutions/Q09_PredictOutput/Q09_PredictOutput.csproj" />
+    <Project Path="Chapter-02-Setting-Up-CSharp/Solutions/Q10_CityCard/Q10_CityCard.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-03-CSharp-Fundamentals/" />
+  <Folder Name="/Chapter-03-CSharp-Fundamentals/Examples/">
+    <Project Path="Chapter-03-CSharp-Fundamentals/Examples/Example3_Constants/Example3_Constants.csproj" />
+    <Project Path="Chapter-03-CSharp-Fundamentals/Examples/Example3_Var/Example3_Var.csproj" />
+    <Project Path="Chapter-03-CSharp-Fundamentals/Examples/Program3_1_Variables/Program3_1_Variables.csproj" />
+    <Project Path="Chapter-03-CSharp-Fundamentals/Examples/Program3_2_DataTypes/Program3_2_DataTypes.csproj" />
+    <Project Path="Chapter-03-CSharp-Fundamentals/Examples/Program3_3_RangesAndSizes/Program3_3_RangesAndSizes.csproj" />
+    <Project Path="Chapter-03-CSharp-Fundamentals/Examples/Program3_4_PrintingVariables/Program3_4_PrintingVariables.csproj" />
+    <Project Path="Chapter-03-CSharp-Fundamentals/Examples/Program3_5_DryRun/Program3_5_DryRun.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-03-CSharp-Fundamentals/MiniProject/">
+    <Project Path="Chapter-03-CSharp-Fundamentals/MiniProject/Program3_6_StudentProfileCard/Program3_6_StudentProfileCard.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-03-CSharp-Fundamentals/Solutions/">
+    <Project Path="Chapter-03-CSharp-Fundamentals/Solutions/Q08_PredictOutput/Q08_PredictOutput.csproj" />
+    <Project Path="Chapter-03-CSharp-Fundamentals/Solutions/Q09_PredictOutput/Q09_PredictOutput.csproj" />
+    <Project Path="Chapter-03-CSharp-Fundamentals/Solutions/Q10_PredictOutput/Q10_PredictOutput.csproj" />
+    <Project Path="Chapter-03-CSharp-Fundamentals/Solutions/Q13_ShopItem/Q13_ShopItem.csproj" />
+  </Folder>
+</Solution>
