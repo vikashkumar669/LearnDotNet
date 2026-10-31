@@ -11,7 +11,8 @@ Each chapter has its own folder with the chapter PDF, a trainer deck for teachin
 | 1 | Welcome to C# | [Chapter-01-Welcome-to-CSharp](Chapter-01-Welcome-to-CSharp) |
 | 2 | Setting Up C# | [Chapter-02-Setting-Up-CSharp](Chapter-02-Setting-Up-CSharp) |
 | 3 | C# Fundamentals (variables, data types) | [Chapter-03-CSharp-Fundamentals](Chapter-03-CSharp-Fundamentals) |
-| 4 | Operators and User Input | Coming soon |
+| 4 | Operators and User Input | [Chapter-04-Operators-and-User-Input](Chapter-04-Operators-and-User-Input) |
+| 5 | Decision Making | Coming soon |
 
 ## How each chapter folder is organised
 

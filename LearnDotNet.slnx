@@ -46,4 +46,27 @@
     <Project Path="Chapter-03-CSharp-Fundamentals/Solutions/Q10_PredictOutput/Q10_PredictOutput.csproj" />
     <Project Path="Chapter-03-CSharp-Fundamentals/Solutions/Q13_ShopItem/Q13_ShopItem.csproj" />
   </Folder>
+  <Folder Name="/Chapter-04-Operators-and-User-Input/" />
+  <Folder Name="/Chapter-04-Operators-and-User-Input/Examples/">
+    <Project Path="Chapter-04-Operators-and-User-Input/Examples/Program4_1_Arithmetic/Program4_1_Arithmetic.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Examples/Program4_2_Division/Program4_2_Division.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Examples/Program4_3_AssignmentAndIncrement/Program4_3_AssignmentAndIncrement.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Examples/Program4_4_RelationalAndLogical/Program4_4_RelationalAndLogical.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Examples/Program4_5_ReadName/Program4_5_ReadName.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Examples/Program4_6_AddTwoNumbers/Program4_6_AddTwoNumbers.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Examples/Program4_7_TryParse/Program4_7_TryParse.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Examples/Program4_8_CastingAndPrecedence/Program4_8_CastingAndPrecedence.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Examples/Program4_9_DryRun/Program4_9_DryRun.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-04-Operators-and-User-Input/MiniProject/">
+    <Project Path="Chapter-04-Operators-and-User-Input/MiniProject/Program4_10_GstBill/Program4_10_GstBill.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-04-Operators-and-User-Input/Solutions/">
+    <Project Path="Chapter-04-Operators-and-User-Input/Solutions/Q06_PredictOutput/Q06_PredictOutput.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Solutions/Q07_PredictOutput/Q07_PredictOutput.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Solutions/Q08_PredictOutput/Q08_PredictOutput.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Solutions/Q11_SimpleInterest/Q11_SimpleInterest.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Solutions/Q12_CelsiusToFahrenheit/Q12_CelsiusToFahrenheit.csproj" />
+    <Project Path="Chapter-04-Operators-and-User-Input/Solutions/Q13_AverageMarks/Q13_AverageMarks.csproj" />
+  </Folder>
 </Solution>
