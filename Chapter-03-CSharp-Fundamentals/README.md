@@ -2,8 +2,6 @@
 
 Read the chapter: [Chapter-03-CSharp-Fundamentals.pdf](Chapter-03-CSharp-Fundamentals.pdf)
 
-Trainer deck: [Chapter-03-Trainer-Deck.pptx](Chapter-03-Trainer-Deck.pptx) (33 slides, PowerPoint). Talking points and the answers to every quiz, MCQ and practice slide are in the speaker notes.
-
 Variables, data types, literals and suffixes, naming rules, `var`, constants and printing values with string interpolation.
 
 ## Examples

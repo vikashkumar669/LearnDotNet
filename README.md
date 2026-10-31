@@ -2,7 +2,7 @@
 
 Practice C# programs for the book **C# Programming for Indian Students** by Vikash Kumar, written for BCA and B.Tech students.
 
-Each chapter has its own folder with the chapter PDF, a trainer deck for teaching it, every program from the chapter as a ready-to-run project, the mini project, and the solutions to the practice questions.
+Each chapter has its own folder with the chapter PDF, every program from the chapter as a ready-to-run project, the mini project, and the solutions to the practice questions.
 
 ## Chapters
 
@@ -19,7 +19,6 @@ Each chapter has its own folder with the chapter PDF, a trainer deck for teachin
 ```text
 Chapter-NN-Title/
   Chapter-NN-Title.pdf   <- the chapter to read
-  Chapter-NN-Trainer-Deck.pptx <- slides for the trainer (answers in speaker notes)
   README.md              <- list of programs in this chapter
   Examples/              <- programs explained inside the chapter
   MiniProject/           <- the chapter's mini project

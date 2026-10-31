@@ -2,8 +2,6 @@
 
 Read the chapter: [Chapter-04-Operators-and-User-Input.pdf](Chapter-04-Operators-and-User-Input.pdf)
 
-Trainer deck: [Chapter-04-Trainer-Deck.pptx](Chapter-04-Trainer-Deck.pptx) (41 slides, PowerPoint). Talking points and the answers to every quiz, MCQ and practice slide are in the speaker notes.
-
 Arithmetic, compound assignment, increment, relational and logical operators, reading keyboard input with `Console.ReadLine`, converting text to numbers, casts and operator precedence.
 
 Programs that read input wait for you to type. The sample input used in the book is listed below.

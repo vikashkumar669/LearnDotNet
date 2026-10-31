@@ -2,8 +2,6 @@
 
 Read the chapter: [Chapter-01-Welcome-to-CSharp.pdf](Chapter-01-Welcome-to-CSharp.pdf)
 
-Trainer deck: [Chapter-01-Trainer-Deck.pptx](Chapter-01-Trainer-Deck.pptx) (33 slides, PowerPoint). Talking points and the answers to every quiz, MCQ and practice slide are in the speaker notes.
-
 What C# is, how a C# program goes from source code to IL to machine code, and your first programs with `Console.Write`, `Console.WriteLine` and escape sequences.
 
 ## Examples
