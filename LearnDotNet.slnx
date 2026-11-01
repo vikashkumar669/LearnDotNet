@@ -69,4 +69,28 @@
     <Project Path="Chapter-04-Operators-and-User-Input/Solutions/Q12_CelsiusToFahrenheit/Q12_CelsiusToFahrenheit.csproj" />
     <Project Path="Chapter-04-Operators-and-User-Input/Solutions/Q13_AverageMarks/Q13_AverageMarks.csproj" />
   </Folder>
+  <Folder Name="/Chapter-05-Decision-Making/" />
+  <Folder Name="/Chapter-05-Decision-Making/Examples/">
+    <Project Path="Chapter-05-Decision-Making/Examples/Program5_1_IfStatement/Program5_1_IfStatement.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Examples/Program5_2_IfElse/Program5_2_IfElse.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Examples/Program5_3_ConditionalOperator/Program5_3_ConditionalOperator.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Examples/Program5_4_ElseIfLadder/Program5_4_ElseIfLadder.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Examples/Program5_5_NestedIf/Program5_5_NestedIf.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Examples/Program5_6_ValidateInput/Program5_6_ValidateInput.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Examples/Program5_7_SwitchStatement/Program5_7_SwitchStatement.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Examples/Program5_8_SwitchExpression/Program5_8_SwitchExpression.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Examples/Program5_9_DryRun/Program5_9_DryRun.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-05-Decision-Making/MiniProject/">
+    <Project Path="Chapter-05-Decision-Making/MiniProject/Program5_10_StudentResult/Program5_10_StudentResult.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-05-Decision-Making/Solutions/">
+    <Project Path="Chapter-05-Decision-Making/Solutions/Q06_PredictOutput/Q06_PredictOutput.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Solutions/Q07_PredictOutput/Q07_PredictOutput.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Solutions/Q08_PredictOutput/Q08_PredictOutput.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Solutions/Q11_LargestOfThree/Q11_LargestOfThree.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Solutions/Q12_LeapYear/Q12_LeapYear.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Solutions/Q13_Calculator/Q13_Calculator.csproj" />
+    <Project Path="Chapter-05-Decision-Making/Solutions/Q14_TriangleType/Q14_TriangleType.csproj" />
+  </Folder>
 </Solution>
