@@ -13,6 +13,7 @@ Each chapter has its own folder with the chapter PDF, every program from the cha
 | 3 | C# Fundamentals (variables, data types) | [Chapter-03-CSharp-Fundamentals](Chapter-03-CSharp-Fundamentals) |
 | 4 | Operators and User Input | [Chapter-04-Operators-and-User-Input](Chapter-04-Operators-and-User-Input) |
 | 5 | Decision Making | [Chapter-05-Decision-Making](Chapter-05-Decision-Making) |
+| 6 | Loops | [Chapter-06-Loops](Chapter-06-Loops) |
 
 ## How each chapter folder is organised
 

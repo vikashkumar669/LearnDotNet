@@ -93,4 +93,31 @@
     <Project Path="Chapter-05-Decision-Making/Solutions/Q13_Calculator/Q13_Calculator.csproj" />
     <Project Path="Chapter-05-Decision-Making/Solutions/Q14_TriangleType/Q14_TriangleType.csproj" />
   </Folder>
+  <Folder Name="/Chapter-06-Loops/" />
+  <Folder Name="/Chapter-06-Loops/Examples/">
+    <Project Path="Chapter-06-Loops/Examples/Program6_1_ForLoop/Program6_1_ForLoop.csproj" />
+    <Project Path="Chapter-06-Loops/Examples/Program6_10_DryRun/Program6_10_DryRun.csproj" />
+    <Project Path="Chapter-06-Loops/Examples/Program6_2_MultiplicationTable/Program6_2_MultiplicationTable.csproj" />
+    <Project Path="Chapter-06-Loops/Examples/Program6_3_WhileLoop/Program6_3_WhileLoop.csproj" />
+    <Project Path="Chapter-06-Loops/Examples/Program6_4_DoWhileMenu/Program6_4_DoWhileMenu.csproj" />
+    <Project Path="Chapter-06-Loops/Examples/Program6_5_ForeachLoop/Program6_5_ForeachLoop.csproj" />
+    <Project Path="Chapter-06-Loops/Examples/Program6_6_BreakContinue/Program6_6_BreakContinue.csproj" />
+    <Project Path="Chapter-06-Loops/Examples/Program6_7_AskAgain/Program6_7_AskAgain.csproj" />
+    <Project Path="Chapter-06-Loops/Examples/Program6_8_NestedLoops/Program6_8_NestedLoops.csproj" />
+    <Project Path="Chapter-06-Loops/Examples/Program6_9_StarPatterns/Program6_9_StarPatterns.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-06-Loops/MiniProject/">
+    <Project Path="Chapter-06-Loops/MiniProject/Program6_11_NumberGuess/Program6_11_NumberGuess.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-06-Loops/Solutions/">
+    <Project Path="Chapter-06-Loops/Solutions/Q06_PredictOutput/Q06_PredictOutput.csproj" />
+    <Project Path="Chapter-06-Loops/Solutions/Q07_PredictOutput/Q07_PredictOutput.csproj" />
+    <Project Path="Chapter-06-Loops/Solutions/Q08_PredictOutput/Q08_PredictOutput.csproj" />
+    <Project Path="Chapter-06-Loops/Solutions/Q09_Factorial/Q09_Factorial.csproj" />
+    <Project Path="Chapter-06-Loops/Solutions/Q10_ReverseAndPalindrome/Q10_ReverseAndPalindrome.csproj" />
+    <Project Path="Chapter-06-Loops/Solutions/Q11_PrimeCheck/Q11_PrimeCheck.csproj" />
+    <Project Path="Chapter-06-Loops/Solutions/Q12_Fibonacci/Q12_Fibonacci.csproj" />
+    <Project Path="Chapter-06-Loops/Solutions/Q13_FixedDeposit/Q13_FixedDeposit.csproj" />
+    <Project Path="Chapter-06-Loops/Solutions/Q14_ArmstrongNumbers/Q14_ArmstrongNumbers.csproj" />
+  </Folder>
 </Solution>
