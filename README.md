@@ -14,6 +14,7 @@ Each chapter has its own folder with the chapter PDF, every program from the cha
 | 4 | Operators and User Input | [Chapter-04-Operators-and-User-Input](Chapter-04-Operators-and-User-Input) |
 | 5 | Decision Making | [Chapter-05-Decision-Making](Chapter-05-Decision-Making) |
 | 6 | Loops | [Chapter-06-Loops](Chapter-06-Loops) |
+| 7 | Methods | [Chapter-07-Methods](Chapter-07-Methods) |
 
 ## How each chapter folder is organised
 

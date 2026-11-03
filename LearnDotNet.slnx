@@ -120,4 +120,32 @@
     <Project Path="Chapter-06-Loops/Solutions/Q13_FixedDeposit/Q13_FixedDeposit.csproj" />
     <Project Path="Chapter-06-Loops/Solutions/Q14_ArmstrongNumbers/Q14_ArmstrongNumbers.csproj" />
   </Folder>
+  <Folder Name="/Chapter-07-Methods/" />
+  <Folder Name="/Chapter-07-Methods/Examples/">
+    <Project Path="Chapter-07-Methods/Examples/Program7_10_Recursion/Program7_10_Recursion.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_11_DryRun/Program7_11_DryRun.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_1_FirstMethod/Program7_1_FirstMethod.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_2_Parameters/Program7_2_Parameters.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_3_ReturnValues/Program7_3_ReturnValues.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_4_ElectricityBill/Program7_4_ElectricityBill.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_5_PassByValue/Program7_5_PassByValue.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_6_OptionalParameters/Program7_6_OptionalParameters.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_7_Overloading/Program7_7_Overloading.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_8_RefAndOut/Program7_8_RefAndOut.csproj" />
+    <Project Path="Chapter-07-Methods/Examples/Program7_9_ShortMethods/Program7_9_ShortMethods.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-07-Methods/MiniProject/">
+    <Project Path="Chapter-07-Methods/MiniProject/Program7_12_AtmMenu/Program7_12_AtmMenu.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-07-Methods/Solutions/">
+    <Project Path="Chapter-07-Methods/Solutions/Q06_PredictOutput/Q06_PredictOutput.csproj" />
+    <Project Path="Chapter-07-Methods/Solutions/Q07_PredictOutput/Q07_PredictOutput.csproj" />
+    <Project Path="Chapter-07-Methods/Solutions/Q08_PredictOutput/Q08_PredictOutput.csproj" />
+    <Project Path="Chapter-07-Methods/Solutions/Q09_IsPrime/Q09_IsPrime.csproj" />
+    <Project Path="Chapter-07-Methods/Solutions/Q10_Factorial/Q10_Factorial.csproj" />
+    <Project Path="Chapter-07-Methods/Solutions/Q11_TemperatureOverloads/Q11_TemperatureOverloads.csproj" />
+    <Project Path="Chapter-07-Methods/Solutions/Q12_SwapWithRef/Q12_SwapWithRef.csproj" />
+    <Project Path="Chapter-07-Methods/Solutions/Q13_MarksAndGrade/Q13_MarksAndGrade.csproj" />
+    <Project Path="Chapter-07-Methods/Solutions/Q14_GcdLcm/Q14_GcdLcm.csproj" />
+  </Folder>
 </Solution>
