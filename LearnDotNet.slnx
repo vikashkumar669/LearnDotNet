@@ -148,4 +148,31 @@
     <Project Path="Chapter-07-Methods/Solutions/Q13_MarksAndGrade/Q13_MarksAndGrade.csproj" />
     <Project Path="Chapter-07-Methods/Solutions/Q14_GcdLcm/Q14_GcdLcm.csproj" />
   </Folder>
+  <Folder Name="/Chapter-08-Arrays/" />
+  <Folder Name="/Chapter-08-Arrays/Examples/">
+    <Project Path="Chapter-08-Arrays/Examples/Program8_10_DryRun/Program8_10_DryRun.csproj" />
+    <Project Path="Chapter-08-Arrays/Examples/Program8_1_FirstArray/Program8_1_FirstArray.csproj" />
+    <Project Path="Chapter-08-Arrays/Examples/Program8_2_FillAndPrint/Program8_2_FillAndPrint.csproj" />
+    <Project Path="Chapter-08-Arrays/Examples/Program8_3_TotalAverage/Program8_3_TotalAverage.csproj" />
+    <Project Path="Chapter-08-Arrays/Examples/Program8_4_Search/Program8_4_Search.csproj" />
+    <Project Path="Chapter-08-Arrays/Examples/Program8_5_ArraysAndMethods/Program8_5_ArraysAndMethods.csproj" />
+    <Project Path="Chapter-08-Arrays/Examples/Program8_6_ArrayIsReference/Program8_6_ArrayIsReference.csproj" />
+    <Project Path="Chapter-08-Arrays/Examples/Program8_7_BubbleSort/Program8_7_BubbleSort.csproj" />
+    <Project Path="Chapter-08-Arrays/Examples/Program8_8_ArrayHelpers/Program8_8_ArrayHelpers.csproj" />
+    <Project Path="Chapter-08-Arrays/Examples/Program8_9_TwoDimensional/Program8_9_TwoDimensional.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-08-Arrays/MiniProject/">
+    <Project Path="Chapter-08-Arrays/MiniProject/Program8_11_ResultSheet/Program8_11_ResultSheet.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-08-Arrays/Solutions/">
+    <Project Path="Chapter-08-Arrays/Solutions/Q06_PredictOutput/Q06_PredictOutput.csproj" />
+    <Project Path="Chapter-08-Arrays/Solutions/Q07_PredictOutput/Q07_PredictOutput.csproj" />
+    <Project Path="Chapter-08-Arrays/Solutions/Q08_PredictOutput/Q08_PredictOutput.csproj" />
+    <Project Path="Chapter-08-Arrays/Solutions/Q09_ReverseInPlace/Q09_ReverseInPlace.csproj" />
+    <Project Path="Chapter-08-Arrays/Solutions/Q10_SecondLargest/Q10_SecondLargest.csproj" />
+    <Project Path="Chapter-08-Arrays/Solutions/Q11_RatingCount/Q11_RatingCount.csproj" />
+    <Project Path="Chapter-08-Arrays/Solutions/Q12_MatrixAddition/Q12_MatrixAddition.csproj" />
+    <Project Path="Chapter-08-Arrays/Solutions/Q13_Timetable/Q13_Timetable.csproj" />
+    <Project Path="Chapter-08-Arrays/Solutions/Q14_MatrixMultiplication/Q14_MatrixMultiplication.csproj" />
+  </Folder>
 </Solution>

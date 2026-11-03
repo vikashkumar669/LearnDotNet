@@ -15,6 +15,7 @@ Each chapter has its own folder with the chapter PDF, every program from the cha
 | 5 | Decision Making | [Chapter-05-Decision-Making](Chapter-05-Decision-Making) |
 | 6 | Loops | [Chapter-06-Loops](Chapter-06-Loops) |
 | 7 | Methods | [Chapter-07-Methods](Chapter-07-Methods) |
+| 8 | Arrays | [Chapter-08-Arrays](Chapter-08-Arrays) |
 
 ## How each chapter folder is organised
 
