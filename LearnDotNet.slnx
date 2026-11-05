@@ -175,4 +175,32 @@
     <Project Path="Chapter-08-Arrays/Solutions/Q13_Timetable/Q13_Timetable.csproj" />
     <Project Path="Chapter-08-Arrays/Solutions/Q14_MatrixMultiplication/Q14_MatrixMultiplication.csproj" />
   </Folder>
+  <Folder Name="/Chapter-09-Strings/" />
+  <Folder Name="/Chapter-09-Strings/Examples/">
+    <Project Path="Chapter-09-Strings/Examples/Program9_10_StringBuilder/Program9_10_StringBuilder.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_11_DryRun/Program9_11_DryRun.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_1_FirstString/Program9_1_FirstString.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_2_Characters/Program9_2_Characters.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_3_CaseAndTrim/Program9_3_CaseAndTrim.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_4_Searching/Program9_4_Searching.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_5_ExtractAndChange/Program9_5_ExtractAndChange.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_6_SplitAndJoin/Program9_6_SplitAndJoin.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_7_Comparing/Program9_7_Comparing.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_8_Formatting/Program9_8_Formatting.csproj" />
+    <Project Path="Chapter-09-Strings/Examples/Program9_9_Validation/Program9_9_Validation.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-09-Strings/MiniProject/">
+    <Project Path="Chapter-09-Strings/MiniProject/Program9_12_Registration/Program9_12_Registration.csproj" />
+  </Folder>
+  <Folder Name="/Chapter-09-Strings/Solutions/">
+    <Project Path="Chapter-09-Strings/Solutions/Q06_PredictOutput/Q06_PredictOutput.csproj" />
+    <Project Path="Chapter-09-Strings/Solutions/Q07_PredictOutput/Q07_PredictOutput.csproj" />
+    <Project Path="Chapter-09-Strings/Solutions/Q08_PredictOutput/Q08_PredictOutput.csproj" />
+    <Project Path="Chapter-09-Strings/Solutions/Q09_SentencePalindrome/Q09_SentencePalindrome.csproj" />
+    <Project Path="Chapter-09-Strings/Solutions/Q10_WordCount/Q10_WordCount.csproj" />
+    <Project Path="Chapter-09-Strings/Solutions/Q11_ReverseEachWord/Q11_ReverseEachWord.csproj" />
+    <Project Path="Chapter-09-Strings/Solutions/Q12_LetterFrequency/Q12_LetterFrequency.csproj" />
+    <Project Path="Chapter-09-Strings/Solutions/Q13_NormaliseMobile/Q13_NormaliseMobile.csproj" />
+    <Project Path="Chapter-09-Strings/Solutions/Q14_Anagram/Q14_Anagram.csproj" />
+  </Folder>
 </Solution>
